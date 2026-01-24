@@ -1,0 +1,24 @@
+# Compiled executables
+src/df2_benchmark
+src/fair_comparison
+
+# Object files
+*.o
+
+# LaTeX auxiliary files
+paper/*.aux
+paper/*.log
+paper/*.out
+paper/*.toc
+paper/*.bbl
+paper/*.blg
+paper/*.synctex.gz
+
+# Editor files
+*~
+*.swp
+.DS_Store
+
+# IDE directories
+.vscode/
+.idea/
